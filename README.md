@@ -27,10 +27,13 @@ Balance Scorecard BSC
     2. level of new product ideas
     3. employee satisfaction
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/452d8c41-4d83-4b9c-b600-c8f396e95ac3/Untitled.png)
+ 
+![Screen Shot 2023-02-05 at 18 04 27](https://user-images.githubusercontent.com/112581327/216838424-2595318c-b21f-4610-a7ff-a104f3a9a348.png)
+
+![Screen Shot 2023-02-05 at 18 04 58](https://user-images.githubusercontent.com/112581327/216838433-cb55d45e-d592-4d32-bca5-3d91e3c7ab7b.png)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54c7723d-1bce-4a54-8630-f42e04db1eea/Untitled.png)
+![Screen Shot 2023-02-05 at 18 05 52](https://user-images.githubusercontent.com/112581327/216838440-eeee2a18-e1c3-4c51-8f47-5d571f705858.png)
+
+![Screen Shot 2023-02-05 at 18 12 27](https://user-images.githubusercontent.com/112581327/216838458-2760a403-c86d-4193-a9cb-eefd1b43aa2c.png)
+
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a24fcaef-4f1e-4e73-81f2-c79418f070f5/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a3afca4-4bb4-4da9-b119-96656cc50ba9/Untitled.png)
