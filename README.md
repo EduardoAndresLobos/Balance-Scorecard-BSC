@@ -1,5 +1,4 @@
 # Balance-Scorecard-BSC
-Balance Scorecard BSC
 
 # Why is it important to use a control and management tool such as the balance scorecard?
    Because What is not measured cannot be controlled and what is not controlled cannot be managed.
@@ -53,12 +52,21 @@ Balance Scorecard BSC
      <li> 4.4 Learn to Prevent Quality Issues
     </ul>
  
-![Screen Shot 2023-02-05 at 18 04 27](https://user-images.githubusercontent.com/112581327/216838424-2595318c-b21f-4610-a7ff-a104f3a9a348.png)
 
-![Screen Shot 2023-02-05 at 18 04 58](https://user-images.githubusercontent.com/112581327/216838433-cb55d45e-d592-4d32-bca5-3d91e3c7ab7b.png)
-    
-![Screen Shot 2023-02-05 at 18 05 52](https://user-images.githubusercontent.com/112581327/216838440-eeee2a18-e1c3-4c51-8f47-5d571f705858.png)
+<h3> KPI are divided into LAG and LEAD and both are focused on the objectives of the company</h3>
 
-![Screen Shot 2023-02-05 at 18 12 27](https://user-images.githubusercontent.com/112581327/216838458-2760a403-c86d-4193-a9cb-eefd1b43aa2c.png)
+1. kpi Lag are final results and are late.
+2. kpi lead (guide) are predictors of those results and be more opportune
 
-    
+ <h3>Example created to show a balanced Scorecardg </h3>
+ Example created to show a balanced Scorecard
+ ![Balanced Scorecard](https://user-images.githubusercontent.com/112581327/217317868-9c1a9cbb-9392-4e6b-b50f-e953a880d343.png)
+
+
+
+<h3> Example of a Dashboard that contains different KPI to control the main goals of the perspective </h3>
+![Dashboard](https://user-images.githubusercontent.com/112581327/217318080-8e9ea3a4-f8c6-45e2-a483-26a9365f3ae1.png)
+
+
+   
+
