@@ -1,7 +1,9 @@
 # Balance-Scorecard-BSC
 Balance Scorecard BSC
 
-# Why use a balance scorecard?
+# Why is it important to use a control and management tool such as the balance scorecard?
+   Because What is not measured cannot be controlled and what is not controlled cannot be managed.
+   Below you can find some benefits of this tool: 
 
 1. Monitor and communiate progress
 2. Link everyone day-to-day work to the strategy
@@ -11,35 +13,45 @@ Balance Scorecard BSC
 6. Alow you to track they long term performance with the long vision of the organization.
 
 
-##What is needed to prepare a balance sheet?
+# What is needed to prepare a Balance Scorecard?
 
 1. Vision : where you want the business to get to over the long term.
-8. Strategy will help you with to achieve your vision. 
+2. Develop Strategy will help you with to achieve your vision. 
+3. Align of the organization
+4. Schedule operations
+5. control and correct
 
 ## Perspectives of the balance scorecard and which kind of question can you solve.
 
 1.  Financial performance = If we satisfy the needs ofour customers, what outcomes will our stakeholders see?
-    1.1 Sustainable growth
-    1.2 Reduce operational costs
-    1.3 Increase sales
+<ul>
+ <li> 1.1 Sustainable growth 
+ <li> 1.2 Reduce operational costs 
+ <li> 1.3 Increase sales 
+</ul>
+
 
 2. Customer perspective= To achieve our vision, how must we look to our customers?
-    2.1 Lead brand positioning in the market
-    2.2 Customer satisfaction
-    2.4 Avoid critical defects, fix non-critical defects quickly
+<ul>
+<li>2.1 Lead brand positioning in the market
+<li>2.2 Customer satisfaction
+<li>2.4 Avoid critical defects, fix non-critical defects quickly
+    </ul>
     
 3. Internal operation = You take a look here in the efficiency of your business  in other word how much money or time is needing during your business.
-    
-    3.1 Solve Quality Issues Quickly
-    3.2 Prevent Critical Quality Problems
-    3.3 Root-Cause Analvsis and Quality Assurance
+   <ul> 
+   <li> 3.1 Solve Quality Issues Quickly
+   <li> 3.2 Prevent Critical Quality Problems
+   <li> 3.3 Root-Cause Analvsis and Quality Assurance
+    </ul>
     
 4. Learning and grow  internal knowledge and innovation 
-    4.1 Employees retention
-    4.2 Level of new product ideas
-    4.3 Employee satisfaction
-    4.4 Learn to Prevent Quality Issues
-    
+    <ul>
+     <li> 4.1 Employees retention
+     <li> 4.2 Level of new product ideas
+     <li> 4.3 Employee satisfaction
+     <li> 4.4 Learn to Prevent Quality Issues
+    </ul>
  
 ![Screen Shot 2023-02-05 at 18 04 27](https://user-images.githubusercontent.com/112581327/216838424-2595318c-b21f-4610-a7ff-a104f3a9a348.png)
 
