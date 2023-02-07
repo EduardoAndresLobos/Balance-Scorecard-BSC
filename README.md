@@ -52,20 +52,21 @@
      <li> 4.4 Learn to Prevent Quality Issues
     </ul>
  
+ <h3>Example created to show a balanced Scorecard </h3>
+ 
+ <img width="985" alt="Screen Shot 2023-02-07 at 17 23 36" src="https://user-images.githubusercontent.com/112581327/217318599-67692c6e-9e9a-4e64-855b-7c7847d91690.png">
+
+ 
 
 <h3> KPI are divided into LAG and LEAD and both are focused on the objectives of the company</h3>
 
 1. kpi Lag are final results and are late.
 2. kpi lead (guide) are predictors of those results and be more opportune
 
- <h3>Example created to show a balanced Scorecardg </h3>
- Example created to show a balanced Scorecard
- ![Balanced Scorecard](https://user-images.githubusercontent.com/112581327/217317868-9c1a9cbb-9392-4e6b-b50f-e953a880d343.png)
-
-
 
 <h3> Example of a Dashboard that contains different KPI to control the main goals of the perspective </h3>
-![Dashboard](https://user-images.githubusercontent.com/112581327/217318080-8e9ea3a4-f8c6-45e2-a483-26a9365f3ae1.png)
+
+<img width="1067" alt="Screen Shot 2023-02-07 at 17 24 51" src="https://user-images.githubusercontent.com/112581327/217318893-6b55fd4b-963c-4e7f-880b-80b518874063.png">
 
 
    
